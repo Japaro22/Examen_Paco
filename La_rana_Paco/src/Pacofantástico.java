@@ -2,9 +2,7 @@
 public class Pacofantástico {
 
 	public static void main(String[] args) {
-		// Te tengo vigilado el coche
-		//como estos conflictos de los que hablas
-		//sean complicados, te lo dejo en 4 ladrillos
+		for(int i=0;i<10000;i++) System.out.println("TU ERES EL MAS PESADO De TODOS GAY");
 
 	}
 
